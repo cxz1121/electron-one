@@ -1,0 +1,15 @@
+{
+  "name": "electron-one",
+  "version": "1.0.0",
+  "description": "a electron project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Hyun",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^30.1.0"
+  }
+}
